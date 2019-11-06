@@ -14,6 +14,7 @@
 		77A41B642347F47900A78E13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77A41B632347F47900A78E13 /* Assets.xcassets */; };
 		77A41B672347F47900A78E13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77A41B662347F47900A78E13 /* Preview Assets.xcassets */; };
 		77A41B6A2347F47900A78E13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77A41B682347F47900A78E13 /* LaunchScreen.storyboard */; };
+		77A41B732347F53400A78E13 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A41B722347F53400A78E13 /* SearchBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		77A41B662347F47900A78E13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		77A41B692347F47900A78E13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77A41B6B2347F47900A78E13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77A41B722347F53400A78E13 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				77A41B5A2347F47800A78E13 /* AppDelegate.swift */,
 				77A41B5C2347F47800A78E13 /* SceneDelegate.swift */,
 				77A41B612347F47800A78E13 /* ContentView.swift */,
+				77A41B722347F53400A78E13 /* SearchBar.swift */,
 				77A41B632347F47900A78E13 /* Assets.xcassets */,
 				77A41B682347F47900A78E13 /* LaunchScreen.storyboard */,
 				77A41B6B2347F47900A78E13 /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				77A41B602347F47800A78E13 /* SearchBar.xcdatamodeld in Sources */,
 				77A41B5B2347F47800A78E13 /* AppDelegate.swift in Sources */,
+				77A41B732347F53400A78E13 /* SearchBar.swift in Sources */,
 				77A41B622347F47800A78E13 /* ContentView.swift in Sources */,
 				77A41B5D2347F47800A78E13 /* SceneDelegate.swift in Sources */,
 			);
