@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    let names = ["Raju", "Ghanshyam", "Baburao Ganpatrao Apte", "Anuradha", "Kabira", "Chaman Jhinga", "Devi Prasad", "Khadak Singh"]
+    let names = ["Raju", "Ghanshyam", "Baburao Ganpatrao Apte", "Anuradha", "Kabira", "Chaman Jhinga", "Devi Prasad", "Khadak Singh", "Mayur Rathod"]
     
     @State private var searchTerm : String = ""
     
